@@ -1,2 +1,0 @@
-# allbizznet.github.io
-website
